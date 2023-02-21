@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Awesome Celo</h1>
-  
+  <img src="./assets/Celo_logo.png" />
   <p align="center">A curated list of awesome <a href="https://docs.celo.org/">Celo</a> resources, libraries, tools and more.</p>
   <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
   

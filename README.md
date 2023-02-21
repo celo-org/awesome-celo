@@ -1,7 +1,6 @@
 <div align="center">
   <img width="200px" src="./assets/Celo_logo.png" />
   <br>
-  <br>
 
   <h1 align="center">Awesome Celo</h1>
   <p align="center">A curated list of awesome <a href="https://docs.celo.org/">Celo</a> resources, libraries, tools and more.</p>

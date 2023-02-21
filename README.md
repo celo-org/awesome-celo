@@ -8,7 +8,12 @@
 
 ### Contents
 
+-   [About Celo](#about-celo)
 -   [Build On Celo](#build-on-celo)
+-   [Tools](#tools)
+-   [Libraries](#libraries)
+-   [Articles & Tutorials](#articles--tutorials)
+-   [Videos](#videos)
 
 ## About Celo
 

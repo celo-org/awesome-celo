@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200px" src="./assets/Celo_logo.png" />
+  <img width="200px" src="./assets/Celo_logo.jpg" />
   <br>
 
   <h1 align="center">Awesome Celo</h1>

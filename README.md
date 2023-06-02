@@ -47,6 +47,8 @@
 ## Libraries
 
 -   [Celo SDK](https://celo-sdk-docs.readthedocs.io/en/latest/)
+-   [@celo/contracts](https://www.npmjs.com/package/@celo/contracts) - Import Celo Core Contracts into your solidity projects
+-   [@celo/abis](https://www.npmjs.com/package/@celo/abis) - Import Celo Core Contract ABIs into your frontend projects
 -   [hardhat-celo](https://docs.celo.org/developer/verify/hardhat)
 -   [react-celo](https://docs.celo.org/developer/react-celo)
 -   [rainbowkit-celo](https://docs.celo.org/developer/rainbowkit-celo)
@@ -59,6 +61,12 @@
 -   [@node-fi/sdk-core](https://www.npmjs.com/package/@node-fi/sdk-core)
 -   [@fiatconnect/fiatconnect-sdk](https://www.npmjs.com/package/@fiatconnect/fiatconnect-sdk) - A lightweight Typescript helper library for wallets or dapps to integrate with FiatConnect compliant APIs.
 -   [@ubeswap/sdk](https://www.npmjs.com/package/@ubeswap/sdk)
+
+## Examples
+
+-   [SocialConnect React Native Example](https://github.com/celo-org/SocialConnect-ReactNative-Demo)
+-   [SocialConnect Twitter Example](https://github.com/celo-org/SocialConnect-Twitter-Server-Side)
+-   [Metamask Fee Currency Snap](https://github.com/celo-org/gas-snap)
 
 ## Articles & Tutorials
 

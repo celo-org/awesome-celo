@@ -61,12 +61,16 @@
 -   [@node-fi/sdk-core](https://www.npmjs.com/package/@node-fi/sdk-core)
 -   [@fiatconnect/fiatconnect-sdk](https://www.npmjs.com/package/@fiatconnect/fiatconnect-sdk) - A lightweight Typescript helper library for wallets or dapps to integrate with FiatConnect compliant APIs.
 -   [@ubeswap/sdk](https://www.npmjs.com/package/@ubeswap/sdk)
+-   [@thirdweb-dev/sdk](https://www.npmjs.com/package/@thirdweb-dev/sdk) - Build dApps using ThirdWeb on Celo
 
 ## Examples
 
 -   [SocialConnect React Native Example](https://github.com/celo-org/SocialConnect-ReactNative-Demo)
 -   [SocialConnect Twitter Example](https://github.com/celo-org/SocialConnect-Twitter-Server-Side)
 -   [Metamask Fee Currency Snap](https://github.com/celo-org/gas-snap)
+-   [Account Abstaction App](https://github.com/celo-academy/erc-4337-dApp)
+
+Check out many more at [Celo Academy](https://github.com/celo-academy)
 
 ## Articles & Tutorials
 
